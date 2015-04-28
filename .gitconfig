@@ -1,0 +1,11 @@
+[alias]
+	co = checkout
+	st = status
+[user]
+	name = JD Isaacks
+	email = jd@jisaacks.com
+[core]
+	editor = vim
+	excludesfile = ~/.gitignore-global
+[push]
+	default = simple
